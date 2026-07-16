@@ -1,0 +1,21 @@
+# Terminología oficial
+
+- **Atlas:** sistema completo.
+- **Knowledge Object:** unidad estructurada de conocimiento.
+- **Domain:** área amplia del conocimiento.
+- **Category:** agrupación dentro de un dominio.
+- **Concept:** idea, tecnología, patrón, herramienta o principio.
+- **Relationship:** vínculo semántico.
+- **Artifact:** archivo producido.
+- **Schema:** estructura obligatoria.
+- **Learning Path:** ruta recomendada.
+- **Flow:** secuencia técnica.
+- **Real-World Project:** caso práctico integrador.
+- **Rabbit Hole:** cadena de profundización.
+- **Release:** versión publicada y etiquetada.
+- **Build:** paquete intermedio no necesariamente publicable.
+- **Draft:** artefacto no aprobado.
+- **Change Proposal:** propuesta formal.
+- **ADR:** registro de decisión arquitectónica.
+- **Founder:** responsable de visión y aprobación.
+- **Founding Architect:** responsable de arquitectura, producción y coherencia.
